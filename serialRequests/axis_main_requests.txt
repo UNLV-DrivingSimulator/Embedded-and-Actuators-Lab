@@ -1,0 +1,32 @@
+----------- Axis 0 --------------
+
+0q01000000007E		Servo ON
+0q00000000007F		Servo OFF
+0r03000000007B		Alarm CLEAR
+0o07000000007A		HOMING
+0aFFFFD8F00005		Central Position
+
+----------- Axis 1 --------------
+
+Servo ON
+Servo OFF
+Alarm CLEAR
+1o070000000079		HOMING
+1aFFFFD8F00004		Central Position
+
+----------- Axis 2 --------------
+
+Servo ON
+Servo OFF
+Alarm CLEAR
+2o070000000078		HOMING
+2aFFFFD8F00003		Central Position
+
+
+0R400006C0407D
+0n000000000082
+
+1Q301FF000006E
+
+1aFFFFD8F00004
+
